@@ -1,0 +1,8 @@
+.venv/
+*.md
+!README.md
+__pycache__/
+*.pyc
+disasm/flicky.asm
+disasm/ram_segment.asm
+!disasm/NOTES.md
